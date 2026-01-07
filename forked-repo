@@ -1,0 +1,23 @@
+PS C:\Users\tusha> Invoke-WebRequest -Uri https://github.com/tusharpati637/Tushar_Courseera -Method Head
+
+
+StatusCode        : 200
+StatusDescription : OK
+Content           :
+RawContent        : HTTP/1.1 200 OK
+                    Vary: X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, X-Requested-With,Accept-Encoding,
+                    Accept, X-Requested-With
+                    Strict-Transport-Security: max-age=31536000; includeSubdomains; p...
+Forms             : {}
+Headers           : {[Vary, X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, X-Requested-With,Accept-Encoding,
+                    Accept, X-Requested-With], [Strict-Transport-Security, max-age=31536000; includeSubdomains;
+                    preload], [X-Frame-Options, deny], [X-Content-Type-Options, nosniff]...}
+Images            : {}
+InputFields       : {}
+Links             : {}
+ParsedHtml        : mshtml.HTMLDocumentClass
+RawContentLength  : 0
+
+
+
+PS C:\Users\tusha>
